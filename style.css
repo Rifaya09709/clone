@@ -106,7 +106,7 @@ body{
     flex-wrap: wrap;
   }
   .course-card{
-    width: 250px;
+    width: 300px;
     animation-duration: 2s;
     animation-name: nash;
   }
